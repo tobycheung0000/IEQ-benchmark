@@ -593,7 +593,7 @@ save(db_2, file="C:/Users/sbbtcg/Dropbox/2017-Toby Cheung/Singapore Building Sur
 # Print graphs for Report ----------------------------------------------
 
 
-load("C:/Users/sbbtcg/Dropbox/2017-Toby Cheung/Singapore Building Survey Project/Data Analysis (First phrase)/IEQ_modify_db.rda")
+load("C:/Users/sbbtcg/Dropbox/2017-Toby Cheung/Singapore Building Survey Project/Data Analysis (First phrase)/IEQ_modify_db.rda");
 attach(db_2)
 
 # Working hours

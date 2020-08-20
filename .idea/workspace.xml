@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a7401a7-e24e-411d-ab5d-1a4ed87c5c2b" name="Default Changelist" comment="added dddddd">
-      <change beforePath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rpackages.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IEQ_survey_analysis.R" beforeDir="false" afterPath="$PROJECT_DIR$/IEQ_survey_analysis.R" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.R" beforeDir="false" afterPath="$PROJECT_DIR$/main.R" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,10 +109,10 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="224" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597915324375" />
-    <state x="103" y="102" width="1331" height="620" key="DiffContextDialog" timestamp="1597914712887">
+    <state x="103" y="102" width="1331" height="620" key="DiffContextDialog" timestamp="1597917024831">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="103" y="102" width="1331" height="620" key="DiffContextDialog/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597914712887" />
+    <state x="103" y="102" width="1331" height="620" key="DiffContextDialog/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597917024831" />
     <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1597911000092">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
