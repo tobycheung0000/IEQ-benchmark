@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7401a7-e24e-411d-ab5d-1a4ed87c5c2b" name="Default Changelist" comment="added e">
+    <list default="true" id="9a7401a7-e24e-411d-ab5d-1a4ed87c5c2b" name="Default Changelist" comment="added dddddd">
+      <change beforePath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rAvailablePackageCache.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/rpackages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IEQ_survey_analysis.R" beforeDir="false" afterPath="$PROJECT_DIR$/IEQ_survey_analysis.R" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.R" beforeDir="false" afterPath="$PROJECT_DIR$/main.R" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +51,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="ToolWindowR Tools.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RSettingsProjectConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -50,18 +76,49 @@
       <option name="project" value="LOCAL" />
       <updated>1597913763311</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change to f">
+      <created>1597914306399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597914306399</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added dddddd">
+      <created>1597914454562</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597914454562</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added e" />
-    <option name="LAST_COMMIT_MESSAGE" value="added e" />
+    <MESSAGE value="change to f" />
+    <MESSAGE value="added dddddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="added dddddd" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="224" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597913699479">
+    <state x="224" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597915324375">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="224" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597913699479" />
+    <state x="224" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597915324375" />
+    <state x="103" y="102" width="1331" height="620" key="DiffContextDialog" timestamp="1597914712887">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="103" y="102" width="1331" height="620" key="DiffContextDialog/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597914712887" />
     <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1597911000092">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
@@ -74,9 +131,21 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="516" y="116" width="448" height="591" key="Github.UntrackedFilesDialog/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597913368138" />
-    <state x="361" y="144" key="Vcs.Push.Dialog.v2" timestamp="1597913774931">
+    <state x="278" y="43" key="SettingsEditor" timestamp="1597915800059">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="361" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597913774931" />
+    <state x="278" y="43" key="SettingsEditor/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597915800059" />
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2" timestamp="1597914485856">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597914485856" />
+    <state x="103" y="102" width="1331" height="620" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597914712887">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="103" y="102" width="1331" height="620" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597914712887" />
+    <state x="410" y="128" width="700" height="530" key="recent.locations.popup" timestamp="1597915861133">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="410" y="128" width="700" height="530" key="recent.locations.popup/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597915861133" />
   </component>
 </project>

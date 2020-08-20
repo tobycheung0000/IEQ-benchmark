@@ -16,3 +16,7 @@ e
 f <- e * b
 dddddd
 f
+
+library(ggplot2)
+
+x <- f + e
