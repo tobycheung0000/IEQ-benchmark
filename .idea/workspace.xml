@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a7401a7-e24e-411d-ab5d-1a4ed87c5c2b" name="Default Changelist" comment="">
+    <list default="true" id="9a7401a7-e24e-411d-ab5d-1a4ed87c5c2b" name="Default Changelist" comment="added e">
       <change beforePath="$PROJECT_DIR$/main.R" beforeDir="false" afterPath="$PROJECT_DIR$/main.R" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,6 +29,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\IEQ-benchmark" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -38,10 +43,19 @@
       <option name="presentableId" value="Default" />
       <updated>1597910326242</updated>
     </task>
+    <task id="LOCAL-00001" summary="added e">
+      <created>1597913763311</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597913763311</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="added e" />
+    <option name="LAST_COMMIT_MESSAGE" value="added e" />
   </component>
   <component name="WindowStateProjectService">
     <state x="224" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597913699479">
@@ -60,5 +74,9 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="516" y="116" width="448" height="591" key="Github.UntrackedFilesDialog/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597913368138" />
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2" timestamp="1597913774931">
+      <screen x="0" y="0" width="1536" height="826" />
+    </state>
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597913774931" />
   </component>
 </project>
