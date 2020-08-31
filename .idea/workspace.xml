@@ -19,8 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9a7401a7-e24e-411d-ab5d-1a4ed87c5c2b" name="Default Changelist" comment="added dddddd">
-      <change beforePath="$PROJECT_DIR$/IEQ_survey_analysis.R" beforeDir="false" afterPath="$PROJECT_DIR$/IEQ_survey_analysis.R" afterDir="false" />
+    <list default="true" id="9a7401a7-e24e-411d-ab5d-1a4ed87c5c2b" name="Default Changelist" comment="revert change">
+      <change beforePath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rGraphicsSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.R" beforeDir="false" afterPath="$PROJECT_DIR$/main.R" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597914454562</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="revert change">
+      <created>1597917140564</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597917140564</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,12 +106,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added e" />
     <MESSAGE value="change to f" />
     <MESSAGE value="added dddddd" />
-    <option name="LAST_COMMIT_MESSAGE" value="added dddddd" />
+    <MESSAGE value="revert change" />
+    <option name="LAST_COMMIT_MESSAGE" value="revert change" />
   </component>
   <component name="WindowStateProjectService">
     <state x="224" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597915324375">
@@ -129,10 +140,10 @@
       <screen x="0" y="0" width="1536" height="826" />
     </state>
     <state x="278" y="43" key="SettingsEditor/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597915800059" />
-    <state x="361" y="144" key="Vcs.Push.Dialog.v2" timestamp="1597914485856">
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2" timestamp="1597917143325">
       <screen x="0" y="0" width="1536" height="826" />
     </state>
-    <state x="361" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597914485856" />
+    <state x="361" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.826/-1080.-840.1080.1872@0.0.1536.826" timestamp="1597917143325" />
     <state x="103" y="102" width="1331" height="620" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597914712887">
       <screen x="0" y="0" width="1536" height="826" />
     </state>

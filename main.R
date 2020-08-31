@@ -19,4 +19,6 @@ f
 
 library(ggplot2)
 
-x <- f + e
+x <- f + e + 3
+
+z<- x + e + 6
